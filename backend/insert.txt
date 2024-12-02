@@ -1,0 +1,9 @@
+INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Đồ xuân hè", "do-xuan-he", current_timestamp, current_timestamp);
+INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Đồ thu đông", "do-thu-dong", current_timestamp, current_timestamp);
+
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo thun", "ao-thun",1, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo balo", "ao-balo",1, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo polo", "ao-polo",1, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo sơ mi", "ao-somi",1, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo khoac", "ao-khoac",2, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo hoodie", "ao-hoodie",2, current_timestamp, current_timestamp);

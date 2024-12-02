@@ -1,6 +1,7 @@
 const express = require("express");
 require("dotenv").config();
 const cors = require("cors");
+const initRouters = require("./src/routers");
 const connectDatabase = require("./src/config/connectDatabase");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
@@ -18,7 +19,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cookieParser());
 
+initRouters(app);
 connectDatabase();
+
 app.use("/", (req, res) => {
   res.send("Sever on ...");
 });
