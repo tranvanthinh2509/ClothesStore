@@ -1,26 +1,29 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "clothesstore",
-    "host": "127.0.0.1",
+    "username": "uw0yt1iplxus6q4s",
+    "password": "izRoleTH9mwHhhg64xB7",
+    "database": "br3wtcfckmka3tpcc9pg",
+    "host": "br3wtcfckmka3tpcc9pg-mysql.services.clever-cloud.com",
     "dialect": "mysql",
-    "logging": false
+    "logging": false,
+    "timezone": "+07:00"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "uw0yt1iplxus6q4s",
+    "password": "izRoleTH9mwHhhg64xB7",
+    "database": "br3wtcfckmka3tpcc9pg",
+    "host": "br3wtcfckmka3tpcc9pg-mysql.services.clever-cloud.com",
     "dialect": "mysql",
-    "logging": false
+    "logging": false,
+    "timezone": "+07:00"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "uw0yt1iplxus6q4s",
+    "password": "izRoleTH9mwHhhg64xB7",
+    "database": "br3wtcfckmka3tpcc9pg",
+    "host": "br3wtcfckmka3tpcc9pg-mysql.services.clever-cloud.com",
     "dialect": "mysql",
-    "logging": false
+    "logging": false,
+    "timezone": "+07:00"
   }
 }

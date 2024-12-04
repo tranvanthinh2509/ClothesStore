@@ -1,5 +1,7 @@
 INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Đồ xuân hè", "do-xuan-he", current_timestamp, current_timestamp);
 INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Đồ thu đông", "do-thu-dong", current_timestamp, current_timestamp);
+INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Giày dép", "giay-dep", current_timestamp, current_timestamp);
+INSERT INTO categories (name, slug, createdAt, updatedAt) VALUES ("Phụ kiện", "phu-kien", current_timestamp, current_timestamp);
 
 INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo thun", "ao-thun",1, current_timestamp, current_timestamp);
 INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo balo", "ao-balo",1, current_timestamp, current_timestamp);
@@ -7,3 +9,8 @@ INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUE
 INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo sơ mi", "ao-somi",1, current_timestamp, current_timestamp);
 INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo khoac", "ao-khoac",2, current_timestamp, current_timestamp);
 INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Áo hoodie", "ao-hoodie",2, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Giày dép", "giay-dep",3, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Nón", "non",4, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Mắt kính", "mat-kinh",4, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Ví", "vi",4, current_timestamp, current_timestamp);
+INSERT INTO categoryproducts (name, slug,idCategory, createdAt, updatedAt) VALUES ("Balo", "balo",4, current_timestamp, current_timestamp);

@@ -17,19 +17,31 @@ module.exports = {
       price: {
         type: Sequelize.FLOAT,
       },
-      content: {
-        type: Sequelize.STRING,
-      },
       quantity: {
         type: Sequelize.INTEGER,
       },
-      featured: {
-        type: Sequelize.STRING,
-      },
-      tag: {
+      code: {
         type: Sequelize.STRING,
       },
       rating: {
+        type: Sequelize.STRING,
+      },
+      label: {
+        type: Sequelize.STRING,
+      },
+      fabric: {
+        type: Sequelize.STRING,
+      },
+      form: {
+        type: Sequelize.STRING,
+      },
+      banner: {
+        type: Sequelize.STRING,
+      },
+      sold: {
+        type: Sequelize.INTEGER,
+      },
+      tag: {
         type: Sequelize.STRING,
       },
       idCategoryProduct: {

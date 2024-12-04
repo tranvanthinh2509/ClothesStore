@@ -60,69 +60,6 @@
         "describeDesign": "Quai dép có thể điều chỉnh được độ rộng hẹp, dễ dàng vừa vặn với tất cả dáng chân của tất cả mọi người",
         "describeForm": "🔍 GDID0041"
       }
-    },
-    {
-      "images": [
-        "https://product.hstatic.net/1000253775/product/160_dep_035-10_ae89b949180f408c8298d091859ae884.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-9_0bc78b42355a4c9c8e369fa727b1e19d.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-4_1725f8bad2924771a1c912e101ae0c06.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-1_438414a9bb0e4840a0da391146497e41.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-6_ffa410bf1df549acb672d13ba44c092f.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-5_13d69f1d3f8344e99b076ec225b282a7.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-3_df5e5c3251f0421d889fe53926bfd03a.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-2_94a720bacb4a476f97b396d00a8b760b.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-7_84ed00b34f414acba8bd2f2f92673260.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_035-8_4b9ca872e744493096b8db0b4086c07e.jpg"
-      ],
-      "title": "Dép Xỏ Ngón ICONDENIM Summer Vibes Collection",
-      "overview": {
-        "type": "Giày - Dép",
-        "code": "GDID0035-02",
-        "price": "190,000₫"
-      },
-      "colors": [
-        "Đen Sọc Trắng",
-        "Trắng Tree",
-        "Xanh Hồng Sunset",
-        "Xanh Camo",
-        "Xanh California",
-        "Đen Newpaper"
-      ],
-      "sizes": ["S", "M", "L", "XL"],
-      "description": {
-        "label": "Bảng size",
-        "fabric": "Size 39-40: Dài bàn chân 24.6 - 25cm, Rộng chân 9.5 - 10cm",
-        "form": "Size 41-42: Dài bàn chân 25.1 - 26cm, Rộng chân 10 - 10.5cm"
-      },
-      "info": { "describeFabric": "🔍: GDID0035" }
-    },
-    {
-      "images": [
-        "https://product.hstatic.net/1000253775/product/160_dep_031-1_5aad922acafa437789fd6a6de8a5883d.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-10_311ac2f668684258aa33624af8e5d811.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-5_f9aca8a3e9084e6aa29781bb09baba87.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-6_ec74c45fbc9c4bfba09f8e5fd90de871.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-7_ba2da3ab69c84155afcddf605bb057bd.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-9_33be5d08ddbd4afc918c11631e1d8739.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-8_411ad079cbd248b88f763b70ed2f5848.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-2_599bbc74754a461eb3ae588a5080b82b.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-3_1471acde1af34a05a63df986f8cad1aa.jpg",
-        "https://product.hstatic.net/1000253775/product/160_dep_031-4_c818100d8ec94e7593792db5a2c09482.jpg"
-      ],
-      "title": "Dép Quai Ngang ICONDENIM Harmony Holes ID",
-      "overview": {
-        "type": "Giày - Dép",
-        "code": "GDID0031-05",
-        "price": "290,000₫"
-      },
-      "colors": ["Đen"],
-      "sizes": ["S", "M", "L", "XL"],
-      "description": {
-        "label": "Bảng size",
-        "fabric": "Size 40: Dài bàn chân 24.6 - 25cm, Rộng chân 9.5 - 10cm",
-        "form": "Size 41: Dài bàn chân 25.1 - 25.5cm, Rộng chân 10cm"
-      },
-      "info": { "describeFabric": "🔍: GDID0031" }
     }
   ]
 }
